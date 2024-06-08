@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://reynolds22.github.io/img-slider",
+  "homepage": "https://reynolds22.github.io/img-slider/",
   "eslintConfig": {
     "extends": [
       "react-app",
